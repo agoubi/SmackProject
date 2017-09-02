@@ -18,6 +18,7 @@
 		89329F381F5AEB7600A83F45 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89329F371F5AEB7600A83F45 /* LoginVC.swift */; };
 		896AA7801F5AE25300664BA2 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896AA77F1F5AE25300664BA2 /* Constants.swift */; };
 		896AC0501F59E508009B7286 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896AC04F1F59E508009B7286 /* GradientView.swift */; };
+		89C98EE51F5B088600A1E393 /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89C98EE41F5B088600A1E393 /* CreateAccountVC.swift */; };
 		B11069C1D4C01C28C831EC46 /* Pods_Smack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8DA28619473139E8E55AA93 /* Pods_Smack.framework */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,7 @@
 		89329F371F5AEB7600A83F45 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		896AA77F1F5AE25300664BA2 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		896AC04F1F59E508009B7286 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
+		89C98EE41F5B088600A1E393 /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 		C8DA28619473139E8E55AA93 /* Pods_Smack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Smack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC38BA9BB021C1E7183C70BC /* Pods-Smack.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smack.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Smack/Pods-Smack.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -104,6 +106,7 @@
 				89264FF71F58766E00A97C19 /* ChatVC.swift */,
 				89264FF91F58769000A97C19 /* ChanelVC.swift */,
 				89329F371F5AEB7600A83F45 /* LoginVC.swift */,
+				89C98EE41F5B088600A1E393 /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 				89329F381F5AEB7600A83F45 /* LoginVC.swift in Sources */,
 				896AC0501F59E508009B7286 /* GradientView.swift in Sources */,
 				89264FF81F58766E00A97C19 /* ChatVC.swift in Sources */,
+				89C98EE51F5B088600A1E393 /* CreateAccountVC.swift in Sources */,
 				896AA7801F5AE25300664BA2 /* Constants.swift in Sources */,
 				89264FFA1F58769000A97C19 /* ChanelVC.swift in Sources */,
 				89207D6C1F5870F800431ED6 /* AppDelegate.swift in Sources */,
